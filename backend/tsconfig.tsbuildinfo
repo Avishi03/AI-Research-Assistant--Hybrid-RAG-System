@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/middlewares/isauth.ts","./src/models/chat.ts","./src/models/prompt.ts","./src/models/response.ts","./src/models/user.ts","./src/routes/auth.ts","./src/routes/chat.ts","./src/routes/index.ts","./src/types/express/index.d.ts"],"version":"5.7.3"}

@@ -1,0 +1,10 @@
+fastapi[standard]==0.116.1
+pydantic==2.11.7
+uvicorn[standard]==0.35.0
+google-genai==1.36.0
+python-dotenv==1.1.1
+langchain==1.0.2
+chromadb==1.2.1
+langchain-google-genai==2.1.12
+langchain_community==0.4.0
+faiss-cpu==1.12.0
